@@ -8,7 +8,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-### 2. Download checkpoint at [here](https://drive.google.com/drive/folders/1Z0Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z?usp=sharing)
+### 2. Download checkpoint at [here](https://drive.google.com/file/d/1vPwhogidV-dwaE0n_cykoCRIUiO-ZPgV/view?usp=sharing)
 ### 3. Inference
 For simplicity, just run
 ```bash
